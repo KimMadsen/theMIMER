@@ -15,7 +15,7 @@ Copyright 2026 Components4Developers - Kim Bo Madsen. See [LICENSE](LICENSE.md) 
 ---
 
 ## More information?
-- **Components4Developers** - [www.components4developers.com]
+- **Components4Developers** - [www.components4developers.com](www.components4developers.com)
 - **Components4Developers Blog** - [components4developers.blog](https://components4developers.blog)
   
 ---
