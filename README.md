@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo_white.png" alt="theMIMER" width="300">
+  <img src="assets/Logo_white.png" alt="theMIMER" width="300">
 </p>
 
 <h1 align="center">theMIMER</h1>
