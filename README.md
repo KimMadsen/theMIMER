@@ -14,6 +14,12 @@ Copyright 2026 Components4Developers - Kim Bo Madsen. See [LICENSE](LICENSE.md) 
 
 ---
 
+## More information?
+- **Components4Developers** - [www.components4developers.com]
+- **Components4Developers Blog** - [components4developers.blog]
+  
+---
+
 ## Key Features
 
 - **Local-first AI** - Runs on your GPU with no cloud dependency. Your data never leaves your machine.
