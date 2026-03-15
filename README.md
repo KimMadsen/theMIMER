@@ -1,6 +1,10 @@
-# theMIMER
+<p align="center">
+  <img src="Logo_white.png" alt="theMIMER" width="300">
+</p>
 
-**MIMER Is Mythical Enhanced Reasoning**
+<h1 align="center">theMIMER</h1>
+
+<p align="center"><strong>MIMER Is Mythical Enhanced Reasoning</strong></p>
 
 theMIMER is an intelligent, local-first AI assistant that runs entirely on your own hardware. It combines a local LLM with a Retrieval-Augmented Generation (RAG) knowledge base, multi-persona thinking strategies, vision, image generation, agentic tool use, and a built-in web chat interface.
 
