@@ -10,7 +10,7 @@ theMIMER is an intelligent, local-first AI assistant that runs entirely on your 
 
 Feed it your documentation, source code, PDFs, and web pages. Ask questions, analyze code, generate reports, find bugs, and get answers grounded in your actual data - not hallucinations.
 
-Copyright 2026 Components4Developers - Kim Bo Madsen. See [LICENSE](LICENSE) for terms.
+Copyright 2026 Components4Developers - Kim Bo Madsen. See [LICENSE](LICENSE.md) for terms.
 
 ---
 
